@@ -1,0 +1,13 @@
+node_modules
+dist
+dist-ssr
+*.local
+.vite
+
+src-tauri/target
+src-tauri/gen
+src-tauri/.tauri
+
+.DS_Store
+Thumbs.db
+*.log
